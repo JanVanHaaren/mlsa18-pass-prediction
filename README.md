@@ -12,7 +12,7 @@ The dataset contains 12,124 passes performed during 14 different games involving
 
 ### Format
 
-The `passes.csv` file contains the dataset in a comma-separated format. The file contains 12,125 rows and 66 columns. In addition to a header row, the file contains one row for each pass providing the following information:
+The `passes.csv` file contains the dataset in a comma-separated format. The file contains 12,125 rows and 60 columns. In addition to a header row, the file contains one row for each pass providing the following information:
 - `time_start`: time elapsed in milliseconds since the start of the half at the time the ball was passed by the sender;
 - `time_end`: time elapsed in milliseconds since the start of the half at the time the ball was received by the receiver;
 - `sender_id`: the identifier of the player who passed the ball;
